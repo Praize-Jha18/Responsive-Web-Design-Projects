@@ -296,9 +296,16 @@ footer {
 
     }
 }
-/* @media(max-width:492px) {
+@media(max-width:492px) {
     #showcase {
-        background: url(../img/Armaan\ Malik\ 18.jpg);
+        background: url(../img/Armaan\ Malik\ 27.jpg);
+        /* background-repeat: no-repeat; */
+        background-size: cover;
+        /* color: rgb(106, 30, 30); */
     }
-} */
+    
+    .des, .des2 {
+        color: #351ae3;
+    }
+}
 
